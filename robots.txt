@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xezocu.burton-krahn.com/sitemap.xml
